@@ -12,7 +12,7 @@ License
 Features
 Responsive Design: The web application is fully responsive, ensuring a seamless experience across different devices.
 Form Input: Users can enter data through a form.
-Data Table: Display entered data in a table format with options to edit and delete entries.
+Data Table: Display entered data in a table format.
 Custom Styling: The application includes custom styling for form elements, table, and buttons.
 Sticky Header: The header remains fixed while scrolling for easy navigation.
 
@@ -30,8 +30,7 @@ cd Wella-School-Assessment-One
 Open index.html in your web browser to view the application.
 
 Usage
-Form Input: Fill out the form fields and click the submit button to add data to the table.
-Edit/Delete Data: Use the edit and delete buttons in the table to manage entries.
+Form Input: Fill out the form fields, all input fields are required.
 Responsive Design: The layout adjusts automatically to fit different screen sizes.
 Contributing
 Contributions are welcome! Please follow these steps to contribute:
