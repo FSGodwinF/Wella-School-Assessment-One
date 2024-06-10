@@ -1,4 +1,5 @@
-This project is a web-based form and table management system created as part of the Wella School assessment. It includes a form for data input and a table for displaying and managing the data. The project is built using HTML, CSS, and JavaScript.
+**WELLA SCHOOL ASSESSMENT ONE**
+This project is a web-based form and table management system created as part of the Wella School assessment. It includes a form for data input and a table for displaying and managing the data. The project is built using HTML and CSS.
 
 Table of Contents
 Features
